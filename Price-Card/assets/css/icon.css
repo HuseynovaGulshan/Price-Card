@@ -1,0 +1,15 @@
+.icon-true {
+ width: 25.345px;
+height: 25.345px;
+flex-shrink: 0;
+background-image: url('../icon/Frame.svg');
+display: inline-flex;
+background-color: red;
+background-size: contain;
+}
+
+.icon-search{
+  width: 28px;
+  height: 28px;
+  background-image: url('../icon/search.svg');
+}
